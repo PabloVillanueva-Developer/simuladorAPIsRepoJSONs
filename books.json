@@ -1,5 +1,4 @@
-{
-  "library": [
+ [
       {
           "book": {
               "title": "El Señor de los Anillos",
@@ -232,4 +231,4 @@
       }
     }
   }
-]}
+]
