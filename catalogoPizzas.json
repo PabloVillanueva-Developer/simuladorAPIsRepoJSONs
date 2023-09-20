@@ -1,7 +1,7 @@
 [
     {
         "nombre": "RUCULA",
-        "src": "../public/pizza-rucula.png",
+        "src": "../../public/pizza-rucula.png",
         "descripcion1": "Rúcula",
         "descripcion2": "Muzzarella",
         "descripcion3": "Tomates Cherry",
