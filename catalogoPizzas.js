@@ -1,5 +1,5 @@
 
-const catalogo = [
+[
 
     {
     nombre: 'RUCULA',
