@@ -69,7 +69,7 @@
         "descripcion2": "Champignones",
         "descripcion3": "Espinaca",
         "descripcion4": "Aceite de Oliva"
-         "precio": "$6500"
+        "precio": "$6500"
     },
     {
         "nombre": "PALMITOS",
@@ -78,7 +78,7 @@
         "descripcion2": "Mozzarella",
         "descripcion3": "Tomates Cherry",
         "descripcion4": "Aceite de Oliva"
-         "precio": "$6700"
+        "precio": "$6700"
     }
 ]
 
