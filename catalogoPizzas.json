@@ -1,7 +1,7 @@
 [
     {
         "nombre": "RUCULA",
-        "src": "../assets/img/pizza-rucula.png",
+        "src": "../../assets/img/pizza-rucula.png",
         "descripcion1": "Rúcula",
         "descripcion2": "Muzzarella",
         "descripcion3": "Tomates Cherry",
@@ -10,7 +10,7 @@
     },
     {
         "nombre": "NAPOLITANA",
-        "src": "../assets/img/pizza-napolitana.png",
+        "src": "../../assets/img/pizza-napolitana.png",
         "descripcion1": "Tomates Frescos",
         "descripcion2": "Queso Mozzarella",
         "descripcion3": "Ajo y Especias",
@@ -19,7 +19,7 @@
     },
     {
         "nombre": "MEDITERRANEA",
-        "src": "../assets/img/pizza-cebolla.png",
+        "src": "../../assets/img/pizza-cebolla.png",
         "descripcion1": "Tomates Frescos",
         "descripcion2": "Queso Feta",
         "descripcion3": "Aceitunas Negras",
@@ -28,7 +28,7 @@
     },
     {
         "nombre": "JAMON Y HUEVO",
-        "src": "../assets/img/pizza-jamon-huevo.png",
+        "src": "../../assets/img/pizza-jamon-huevo.png",
         "descripcion1": "Queso Feta",
         "descripcion2": "Jamon Cocido",
         "descripcion3": "Huevo",
@@ -37,7 +37,7 @@
     },
     {
         "nombre": "CALABRESA",
-        "src": "../assets/img/pizza-cantimpalo.png",
+        "src": "../../assets/img/pizza-cantimpalo.png",
         "descripcion1": "Queso Feta",
         "descripcion2": "Calabresa",
         "descripcion3": "Tomates Cherry",
@@ -46,7 +46,7 @@
     },
     {
         "nombre": "PRIMAVERA",
-        "src": "../assets/img/pizza-primavera.png",
+        "src": "../../assets/img/pizza-primavera.png",
         "descripcion1": "Esparragos",
         "descripcion2": "Espinacas Frescas",
         "descripcion3": "Champignones",
@@ -55,7 +55,7 @@
     },
     {
         "nombre": "VEGGIE",
-        "src": "../assets/img/pizza-verduras.png",
+        "src": "../../assets/img/pizza-verduras.png",
         "descripcion1": "Espinaca",
         "descripcion2": "Champignones",
         "descripcion3": "Tomates Cherry",
@@ -64,7 +64,7 @@
     },
     {
         "nombre": "VEGGIE S/TACC",
-        "src": "../assets/img/pizza-rellena.png",
+        "src": "../../assets/img/pizza-rellena.png",
         "descripcion1": "Masa sin TACC",
         "descripcion2": "Champignones",
         "descripcion3": "Espinaca",
@@ -73,7 +73,7 @@
     },
     {
         "nombre": "PALMITOS",
-        "src": "../assets/img/pizzas-palmitos.png",
+        "src": "../../assets/img/pizzas-palmitos.png",
         "descripcion1": "Palmitos",
         "descripcion2": "Mozzarella",
         "descripcion3": "Tomates Cherry",
