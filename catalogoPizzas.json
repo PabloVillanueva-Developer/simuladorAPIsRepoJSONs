@@ -6,6 +6,7 @@
         "descripcion2": "Muzzarella",
         "descripcion3": "Tomates Cherry",
         "descripcion4": "Aceite de Oliva"
+        "precio": "$5000"
     },
     {
         "nombre": "NAPOLITANA",
@@ -14,6 +15,7 @@
         "descripcion2": "Queso Mozzarella",
         "descripcion3": "Ajo y Especias",
         "descripcion4": "Aceite de Oliva"
+        "precio": "$5500"
     },
     {
         "nombre": "MEDITERRANEA",
@@ -22,6 +24,7 @@
         "descripcion2": "Queso Feta",
         "descripcion3": "Aceitunas Negras",
         "descripcion4": "Especias"
+        "precio": "$6500"
     },
     {
         "nombre": "JAMON Y HUEVO",
@@ -30,6 +33,7 @@
         "descripcion2": "Jamon Cocido",
         "descripcion3": "Huevo",
         "descripcion4": "Aceite de Oliva"
+        "precio": "$4500"
     },
     {
         "nombre": "CALABRESA",
@@ -38,6 +42,7 @@
         "descripcion2": "Calabresa",
         "descripcion3": "Tomates Cherry",
         "descripcion4": "Aceite de Oliva"
+        "precio": "$5000"
     },
     {
         "nombre": "PRIMAVERA",
@@ -46,6 +51,7 @@
         "descripcion2": "Espinacas Frescas",
         "descripcion3": "Champignones",
         "descripcion4": "Queso Mozzarella"
+        "precio": "$5500"
     },
     {
         "nombre": "VEGGIE",
@@ -54,6 +60,7 @@
         "descripcion2": "Champignones",
         "descripcion3": "Tomates Cherry",
         "descripcion4": "Especias"
+        "precio": "$5000"
     },
     {
         "nombre": "VEGGIE S/TACC",
@@ -62,6 +69,7 @@
         "descripcion2": "Champignones",
         "descripcion3": "Espinaca",
         "descripcion4": "Aceite de Oliva"
+         "precio": "$6500"
     },
     {
         "nombre": "PALMITOS",
@@ -70,6 +78,7 @@
         "descripcion2": "Mozzarella",
         "descripcion3": "Tomates Cherry",
         "descripcion4": "Aceite de Oliva"
+         "precio": "$6700"
     }
 ]
 
