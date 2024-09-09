@@ -1,5 +1,5 @@
 [
-   {
+    {
         "id": "1000",
         "title": "Feria Agronomia",
         "thumbnail": "/ColmenaresExample.png",
@@ -21,7 +21,7 @@
     },
     {
         "id": "1002",
-        "title": "/ColmenaresExample.png",
+        "title": "Festival de Cine",
         "thumbnail": "../../assets/img/film-festival.png",
         "date": "Última semana de Abril",
         "location": "Av. Corrientes 1650, Microcentro, CABA",
@@ -31,7 +31,7 @@
     },
     {
         "id": "1003",
-        "title": "/ColmenaresExample.png",
+        "title": "Feria del Libro",
         "thumbnail": "../../assets/img/book-fair.png",
         "date": "Abril y Mayo",
         "location": "La Rural, Av. Sarmiento 2704, Palermo, CABA",
@@ -41,7 +41,7 @@
     },
     {
         "id": "1004",
-        "title": "/ColmenaresExample.png",
+        "title": "Mercado de Pulgas",
         "thumbnail": "../../assets/img/flea-market.png",
         "date": "Todos los Domingos",
         "location": "Av. Dorrego 1650, Colegiales, CABA",
@@ -51,7 +51,7 @@
     },
     {
         "id": "1005",
-        "title": "/ColmenaresExample.png",
+        "title": "Festival de Jazz",
         "thumbnail": "../../assets/img/jazz-festival.png",
         "date": "Segunda quincena de Noviembre",
         "location": "Centro Cultural Recoleta, CABA",
@@ -61,7 +61,7 @@
     },
     {
         "id": "1006",
-        "title": "/ColmenaresExample.png",
+        "title": "Feria de Diseño",
         "thumbnail": "../../assets/img/design-fair.png",
         "date": "1er y 3er Sábado de cada mes",
         "location": "Parque Centenario, CABA",
@@ -71,7 +71,7 @@
     },
     {
         "id": "1007",
-        "title": "/ColmenaresExample.png",
+        "title": "Feria de Comida Callejera",
         "thumbnail": "../../assets/img/street-food.png",
         "date": "Segundo Sábado de cada mes",
         "location": "Parque Chacabuco, CABA",
@@ -81,7 +81,7 @@
     },
     {
         "id": "1008",
-        "title": "/ColmenaresExample.png",
+        "title": "Festival Electrónico",
         "thumbnail": "../../assets/img/electronic-festival.png",
         "date": "Último fin de semana de Octubre",
         "location": "Costanera Sur, CABA",
@@ -91,7 +91,7 @@
     },
     {
         "id": "1009",
-        "title": "/ColmenaresExample.png",
+        "title": "Feria Veggie",
         "thumbnail": "../../assets/img/veggie-fair.png",
         "date": "2dos Fines de Semana de mes",
         "location": "Parque Saavedra, CABA",
