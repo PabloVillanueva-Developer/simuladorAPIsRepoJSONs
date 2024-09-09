@@ -1,1 +1,92 @@
-
+[
+   {
+        "title": "Feria Agronomia",
+        "thumbnail": "../../assets/img/pizza-rucula.png",
+        "date": "3ros Fines de Semana de mes",
+        "location": "Av. San Martin 4453, Agronomia, CABA",
+        "category": "Ferias",
+        "targetAudience": "Publico en General",
+        "tags": "Artesanias, Alimentos, Plantas, Musica"
+    },
+    {
+        "title": "Expo Vegan",
+        "thumbnail": "../../assets/img/vegan-expo.png",
+        "date": "1er Sábado de cada mes",
+        "location": "Dorrego 2200, Palermo, CABA",
+        "category": "Exposiciones",
+        "targetAudience": "Publico en General",
+        "tags": "Alimentos Veganos, Bienestar, Conferencias"
+    },
+    {
+        "title": "Festival de Cine Independiente",
+        "thumbnail": "../../assets/img/film-festival.png",
+        "date": "Última semana de Abril",
+        "location": "Av. Corrientes 1650, Microcentro, CABA",
+        "category": "Festivales",
+        "targetAudience": "Amantes del Cine",
+        "tags": "Películas, Documentales, Cine Arte"
+    },
+    {
+        "title": "Feria del Libro",
+        "thumbnail": "../../assets/img/book-fair.png",
+        "date": "Abril y Mayo",
+        "location": "La Rural, Av. Sarmiento 2704, Palermo, CABA",
+        "category": "Ferias",
+        "targetAudience": "Lectores, Publico en General",
+        "tags": "Libros, Firmas de Autores, Conferencias"
+    },
+    {
+        "title": "Mercado de Pulgas",
+        "thumbnail": "../../assets/img/flea-market.png",
+        "date": "Todos los Domingos",
+        "location": "Av. Dorrego 1650, Colegiales, CABA",
+        "category": "Mercados",
+        "targetAudience": "Cazadores de Ofertas",
+        "tags": "Antigüedades, Muebles, Curiosidades"
+    },
+    {
+        "title": "Festival de Jazz",
+        "thumbnail": "../../assets/img/jazz-festival.png",
+        "date": "Segunda quincena de Noviembre",
+        "location": "Centro Cultural Recoleta, CABA",
+        "category": "Festivales",
+        "targetAudience": "Amantes de la Música",
+        "tags": "Jazz, Conciertos en Vivo, Talleres"
+    },
+    {
+        "title": "Feria de Diseño Independiente",
+        "thumbnail": "../../assets/img/design-fair.png",
+        "date": "1er y 3er Sábado de cada mes",
+        "location": "Parque Centenario, CABA",
+        "category": "Ferias",
+        "targetAudience": "Amantes del Diseño",
+        "tags": "Diseño, Ropa, Accesorios, Arte"
+    },
+    {
+        "title": "Feria de Comida Callejera",
+        "thumbnail": "../../assets/img/street-food.png",
+        "date": "Segundo Sábado de cada mes",
+        "location": "Parque Chacabuco, CABA",
+        "category": "Ferias",
+        "targetAudience": "Amantes de la Gastronomía",
+        "tags": "Comida, Bebidas, Food Trucks"
+    },
+    {
+        "title": "Festival de Música Electrónica",
+        "thumbnail": "../../assets/img/electronic-festival.png",
+        "date": "Último fin de semana de Octubre",
+        "location": "Costanera Sur, CABA",
+        "category": "Festivales",
+        "targetAudience": "Jóvenes, Amantes de la Electrónica",
+        "tags": "DJ, Música Electrónica, Conciertos"
+    },
+    {
+        "title": "Feria Veggie",
+        "thumbnail": "../../assets/img/veggie-fair.png",
+        "date": "2dos Fines de Semana de mes",
+        "location": "Parque Saavedra, CABA",
+        "category": "Ferias",
+        "targetAudience": "Publico en General",
+        "tags": "Comida Veggie, Cosmética Natural, Artesanías"
+    }
+]
