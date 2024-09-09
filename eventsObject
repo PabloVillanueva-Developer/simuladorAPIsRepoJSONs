@@ -1,7 +1,7 @@
 [
    {
         "title": "Feria Agronomia",
-        "thumbnail": "../../assets/img/pizza-rucula.png",
+        "thumbnail": "/ColmenaresExample.png",
         "date": "3ros Fines de Semana de mes",
         "location": "Av. San Martin 4453, Agronomia, CABA",
         "category": "Ferias",
@@ -10,7 +10,7 @@
     },
     {
         "title": "Expo Vegan",
-        "thumbnail": "../../assets/img/vegan-expo.png",
+        "thumbnail": "/ColmenaresExample.png",
         "date": "1er Sábado de cada mes",
         "location": "Dorrego 2200, Palermo, CABA",
         "category": "Exposiciones",
@@ -18,7 +18,7 @@
         "tags": "Alimentos Veganos, Bienestar, Conferencias"
     },
     {
-        "title": "Festival de Cine Independiente",
+        "title": "/ColmenaresExample.png",
         "thumbnail": "../../assets/img/film-festival.png",
         "date": "Última semana de Abril",
         "location": "Av. Corrientes 1650, Microcentro, CABA",
@@ -27,7 +27,7 @@
         "tags": "Películas, Documentales, Cine Arte"
     },
     {
-        "title": "Feria del Libro",
+        "title": "/ColmenaresExample.png",
         "thumbnail": "../../assets/img/book-fair.png",
         "date": "Abril y Mayo",
         "location": "La Rural, Av. Sarmiento 2704, Palermo, CABA",
@@ -36,7 +36,7 @@
         "tags": "Libros, Firmas de Autores, Conferencias"
     },
     {
-        "title": "Mercado de Pulgas",
+        "title": "/ColmenaresExample.png",
         "thumbnail": "../../assets/img/flea-market.png",
         "date": "Todos los Domingos",
         "location": "Av. Dorrego 1650, Colegiales, CABA",
@@ -45,7 +45,7 @@
         "tags": "Antigüedades, Muebles, Curiosidades"
     },
     {
-        "title": "Festival de Jazz",
+        "title": "/ColmenaresExample.png",
         "thumbnail": "../../assets/img/jazz-festival.png",
         "date": "Segunda quincena de Noviembre",
         "location": "Centro Cultural Recoleta, CABA",
@@ -54,7 +54,7 @@
         "tags": "Jazz, Conciertos en Vivo, Talleres"
     },
     {
-        "title": "Feria de Diseño Independiente",
+        "title": "/ColmenaresExample.png",
         "thumbnail": "../../assets/img/design-fair.png",
         "date": "1er y 3er Sábado de cada mes",
         "location": "Parque Centenario, CABA",
@@ -63,7 +63,7 @@
         "tags": "Diseño, Ropa, Accesorios, Arte"
     },
     {
-        "title": "Feria de Comida Callejera",
+        "title": "/ColmenaresExample.png",
         "thumbnail": "../../assets/img/street-food.png",
         "date": "Segundo Sábado de cada mes",
         "location": "Parque Chacabuco, CABA",
@@ -72,7 +72,7 @@
         "tags": "Comida, Bebidas, Food Trucks"
     },
     {
-        "title": "Festival de Música Electrónica",
+        "title": "/ColmenaresExample.png",
         "thumbnail": "../../assets/img/electronic-festival.png",
         "date": "Último fin de semana de Octubre",
         "location": "Costanera Sur, CABA",
@@ -81,7 +81,7 @@
         "tags": "DJ, Música Electrónica, Conciertos"
     },
     {
-        "title": "Feria Veggie",
+        "title": "/ColmenaresExample.png",
         "thumbnail": "../../assets/img/veggie-fair.png",
         "date": "2dos Fines de Semana de mes",
         "location": "Parque Saavedra, CABA",
