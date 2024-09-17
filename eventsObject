@@ -8,8 +8,10 @@
         "category": "Ferias",
         "targetAudience": "Publico en General",
         "tags": "Artesanias, Alimentos, Plantas, Musica",
+        "coordinates": "-34.83961, -58.49776", 
         "description": "¡Disfruta de una vibrante feria con una variedad de artesanías, alimentos frescos y música en vivo! La Feria Agronomia es el lugar perfecto para pasar un agradable fin de semana explorando productos locales y disfrutando de la cultura."
-    },
+    
+},
     {
         "id": "1001",
         "title": "Expo Vegan",
@@ -19,8 +21,10 @@
         "category": "Exposiciones",
         "targetAudience": "Publico en General",
         "tags": "Alimentos Veganos, Bienestar, Conferencias",
+        "coordinates": "-34.81507, -58.48915",
         "description": "La Expo Vegan es un evento imprescindible para todos los entusiastas de la vida saludable. Descubre deliciosos alimentos veganos, participa en conferencias sobre bienestar y encuentra productos innovadores para tu estilo de vida."
-    },
+              
+},
     {
         "id": "1002",
         "title": "Festival de Cine",
@@ -30,6 +34,7 @@
         "category": "Festivales",
         "targetAudience": "Amantes del Cine",
         "tags": "Películas, Documentales, Cine Arte",
+        "coordinates": "-34.84170, -58.50434",     
         "description": "Sumérgete en el mundo del cine con nuestro Festival de Cine. Disfruta de una selección de películas, documentales y cine arte que te dejarán una impresión duradera. ¡Una semana llena de magia cinematográfica!"
     },
     {
@@ -41,6 +46,7 @@
         "category": "Ferias",
         "targetAudience": "Lectores, Publico en General",
         "tags": "Libros, Firmas de Autores, Conferencias",
+        "coordinates": "-34.84722, -58.50376", 
         "description": "La Feria del Libro es el lugar ideal para todos los amantes de la lectura. Explora una amplia gama de libros, participa en firmas de autores y asiste a conferencias literarias. ¡Un evento que celebra la pasión por los libros!"
     },
     {
@@ -52,6 +58,7 @@
         "category": "Mercados",
         "targetAudience": "Cazadores de Ofertas",
         "tags": "Antigüedades, Muebles, Curiosidades",
+        "coordinates": "-34.85319, -58.52065", 
         "description": "¡Encuentra tesoros escondidos en el Mercado de Pulgas! Cada domingo, explora antigüedades, muebles únicos y curiosidades en un ambiente vibrante y lleno de historia. Ideal para quienes buscan algo especial y diferente."
     },
     {
@@ -63,6 +70,7 @@
         "category": "Festivales",
         "targetAudience": "Amantes de la Música",
         "tags": "Jazz, Conciertos en Vivo, Talleres",
+        "coordinates": "-34.85283, -58.46066",
         "description": "Sumérgete en el ritmo del Festival de Jazz, donde disfrutarás de conciertos en vivo y talleres que celebran la rica tradición del jazz. Ven y déjate llevar por la música en un ambiente único y lleno de energía."
     },
     {
@@ -74,6 +82,7 @@
         "category": "Ferias",
         "targetAudience": "Amantes del Diseño",
         "tags": "Diseño, Ropa, Accesorios, Arte",
+        "coordinates": "-34.85692, -58.48804", 
         "description": "La Feria de Diseño es el lugar perfecto para descubrir lo último en moda, accesorios y arte. Visita el Parque Centenario para explorar una variedad de productos diseñados por artistas locales y creativos."
     },
     {
@@ -85,6 +94,7 @@
         "category": "Ferias",
         "targetAudience": "Amantes de la Gastronomía",
         "tags": "Comida, Bebidas, Food Trucks",
+        "coordinates": "-34.82226, -58.45842", 
         "description": "Disfruta de una explosión de sabores en la Feria de Comida Callejera. Con food trucks que ofrecen una variedad de comidas y bebidas deliciosas, este evento es un paraíso para los amantes de la gastronomía."
     },
     {
@@ -96,6 +106,7 @@
         "category": "Festivales",
         "targetAudience": "Jóvenes, Amantes de la Electrónica",
         "tags": "DJ, Música Electrónica, Conciertos",
+        "coordinates": "-34.82409, -58.45791", 
         "description": "El Festival Electrónico es el lugar donde la música y la tecnología se encuentran. Únete a nosotros en Costanera Sur para una experiencia inolvidable con DJ’s de renombre y espectáculos de música electrónica."
     },
     {
@@ -107,6 +118,7 @@
         "category": "Ferias",
         "targetAudience": "Publico en General",
         "tags": "Comida Veggie, Cosmética Natural, Artesanías",
+        "coordinates": "-34.81831, -58.53361", 
         "description": "Descubre lo mejor de la vida saludable en la Feria Veggie. Con una variedad de comidas veganas, cosmética natural y artesanías, este evento es perfecto para quienes buscan opciones sostenibles y deliciosas."
     }
 ]
